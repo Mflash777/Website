@@ -2,7 +2,7 @@
 
 This is the official portfolio website for NOVA (Navigational Operations Vehicle Autonomy Club), founded by Mflash.
 
-Live site: https://mflash777.github.io/nova-website/ 
+Live site: https://mflash777.github.io/nova-website/     
 
 ## About The Project
 Started from a bare-bones HTML page and built into a full space-themed portfolio. The site showcases autonomous RC cars, cybersecurity tools, and aerospace projects.
