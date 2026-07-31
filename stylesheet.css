@@ -153,3 +153,31 @@ section a:hover {
     font-size: 12px;
     opacity: 0.6;
 }
+.project-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.project-card.horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.project-card.horizontal .text {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.project-card.horizontal img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+    flex-shrink: 0;
+}
